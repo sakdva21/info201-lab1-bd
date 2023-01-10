@@ -10,6 +10,7 @@ used in this file underneath the particular question.
    terminal on mac.
    
 2. Which directory are you in?  Find it out!  Hint: `pwd`
+doram@TABLET
 
 3. Navigate to your "Documents" directory (or wherever else you keep
    your stuff).  Hint: `cd`
